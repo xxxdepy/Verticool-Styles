@@ -1,0 +1,64 @@
+/***********************************************************
+VertiCool.Styles by Deepak Kamat (www.stramaxon.com) 
+
+# Easy to use CSS library to give margins and paddings to 
+  elements by just adding classnames to it.
+
+License: The MIT License (MIT)
+***********************************************************/
+
+
+
+/********************** 
+ * MARIGINS 
+***********************/
+
+/* Top Margin */
+.tm-5  {margin-top:5px;}
+.tm-10 {margin-top:10px;}
+.tm-15 {margin-top:15px;}
+.tm-20 {margin-top:20px;}
+.tm-25 {margin-top:25px;}
+.tm-30 {margin-top:30px;}
+.tm-40 {margin-top:40px;}
+.tm-50 {margin-top:50px;}
+
+/* Bottom Margin */
+.bm-5  {margin-bottom:5px;}
+.bm-10 {margin-bottom:10px;}
+.bm-15 {margin-bottom:15px;}
+.bm-20 {margin-bottom:20px;}
+.bm-25 {margin-bottom:25px;}
+.bm-30 {margin-bottom:30px;}
+.bm-40 {margin-bottom:40px;}
+.bm-50 {margin-bottom:50px;}
+
+
+
+/********************** 
+ * Paddings
+***********************/
+
+/* Top Margin */
+.tp-5  {padding-top:5px;}
+.tp-10 {padding-top:10px;}
+.tp-15 {padding-top:15px;}
+.tp-20 {padding-top:20px;}
+.tp-25 {padding-top:25px;}
+.tp-30 {padding-top:30px;}
+.tp-40 {padding-top:40px;}
+.tp-50 {padding-top:50px;}
+
+/* Bottom Margin */
+.bp-5  {padding-bottom:5px;}
+.bp-10 {padding-bottom:10px;}
+.bp-15 {padding-bottom:15px;}
+.bp-20 {padding-bottom:20px;}
+.bp-25 {padding-bottom:25px;}
+.bp-30 {padding-bottom:30px;}
+.bp-40 {padding-bottom:40px;}
+.bp-50 {padding-bottom:50px;}
+
+
+
+
